@@ -54,7 +54,7 @@ The analysis provides insights into:
 
 ## 👨‍💻 AUTHOR
 
-DEVALAMKATI SHANMUKHA
+**DEVALAMKATI SHANMUKHA**
 
 B.Tech CSE (Data Science)
 
